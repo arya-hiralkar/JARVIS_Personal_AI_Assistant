@@ -1,0 +1,6 @@
+speech_recognition
+pyttsx3
+requests
+beautifulsoup4
+pyautogui
+pywhatkit
