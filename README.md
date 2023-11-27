@@ -1,6 +1,6 @@
 # JARVIS - Personal Voice-Activated AI Assistant
 
-Meet Jarvis, your helpful AI assistant designed to make your digital life easier. Simply speak your commands, and Jarvis will seamlessly perform tasks such as playing music, checking the weather, and delivering the latest news. Whether you want to 'play a video,' 'hear the news,' or know 'what's the weather today,' Jarvis is ready to assist you hands-free.
+Meet Jarvis, a helpful AI assistant designed to make anyone's digital life easier , Simply speak your commands, and Jarvis will seamlessly perform tasks such as playing music, checking the weather, and delivering the latest news, by interacting with him only ,  Whether you want to 'play a video,' 'hear the news,' or know 'what's the weather today,' Jarvis is ready to assist you hands-free.
 
 
 Functionalitites that JARVIS AI is providing 
